@@ -1,3 +1,7 @@
 site_name: Sample 3
 theme:
   name: material
+
+edit_uri: /blob/master/
+nav:
+  - Home: index.md
