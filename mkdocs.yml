@@ -4,6 +4,10 @@ repo_name: Sample 3 Repo
 theme:
   name: material
 
+extra:
+  version:
+    provider: mike
+
 edit_uri: /blob/master/
 nav:
   - Home: index.md
